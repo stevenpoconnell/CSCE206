@@ -1,8 +1,3 @@
-/* Hw3_q2_code.c
-Steven O'Connell
-UIN: 128002247
-CSCE 206 - Section 502 */
-
 #include <stdio.h>
 
 float power(float n, int k)
