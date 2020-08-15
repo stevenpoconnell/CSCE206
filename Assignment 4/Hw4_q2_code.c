@@ -1,8 +1,3 @@
-/* Hw4_q2_code.c
-Steven O'Connell
-UIN: 128002247
-CSCE 206 - Section 502 */
-
 #include <stdio.h>
 
 int get_value(char ch) {
