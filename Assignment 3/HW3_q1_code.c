@@ -1,8 +1,3 @@
-/* Hw3_q1_code.c
-Steven O'Connell
-UIN: 128002247
-CSCE 206 - Section 502 */
-
 #include <stdio.h>
 
 #include <stdio.h>
